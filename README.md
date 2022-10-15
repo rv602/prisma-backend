@@ -16,7 +16,7 @@ This project is built with Node js and Express, and uses MongoDB Atlas for the d
 <br>
 Prisma is an open source ORM which makes working with databases and creating schemas very much easier for the developer.
 <br>
-You can read more about Prisma from this [link](https://www.prisma.io/){:target="_blank"}
+You can read more about Prisma from this [link]('https://www.prisma.io/'){:target="_blank"}
 
 # How to run this project locally
 
